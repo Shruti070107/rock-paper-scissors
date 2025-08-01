@@ -1,6 +1,6 @@
 
 ### 📄 `rps_gui.py`:
-```python
+
 import tkinter as tk
 import random
 from tkinter import messagebox
